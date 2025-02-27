@@ -10,7 +10,7 @@ const Footer = () => {
           name="email"
           id="email"
           placeholder="Email address"
-          className="h-12 w-56 p-2 lg:w-80 items-center text-sm  border  focus:border-[#030014] text-[#030014] focus:border-1 border-[#AB8BFF]  rounded-lg] rounded-lg"
+          className="h-12 w-56 p-2 lg:w-80 items-center text-sm text-[#AB8BFF] border  focus:border-[#030014] focus:border-1 border-[#AB8BFF]  rounded-lg] rounded-lg"
         />
         <Button
           className="bg-[#AB8BFF] text-black transition rounded-sm"
