@@ -1,0 +1,21 @@
+export const navItems = ["Home", "Movies", "Tv shows"];
+export const footerItems = [
+  "FAQ",
+  "Help Center",
+  "Account",
+  "Media Center",
+  "Investor Relations",
+  "Jobs",
+  "Redeem Gift Cards",
+  "Buy Gift Cards",
+  "Ways to Watch",
+  "Terms of Use",
+  "Privacy",
+  "Cookie Preferences",
+  "Corporate Information",
+  "Contact Us",
+  "Speed Test",
+  "Legal Notices",
+  "Only on Netflix",
+  "Ad Choices",
+];
