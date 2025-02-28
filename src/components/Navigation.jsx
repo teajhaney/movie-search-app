@@ -21,7 +21,7 @@ const Navigation = ({ searchTerm, setSearchTerm }) => {
         <div>
           <ul className="hidden lg:flex space-x-4 text-[#030014] text-2xl font-bold">
             {navItems.map((navItem, index) => (
-              <li key={index} className="inline ">
+              <li key={index} className="inline text-gradient ">
                 <a href={`#${navItem.toLowerCase()}`} className="">
                   {navItem}
                 </a>
