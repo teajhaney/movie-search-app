@@ -1,4 +1,4 @@
-import axios from "axios";
+import axios from 'axios'
 import { useEffect, useState, useCallback } from "react";
 import Spinner from "./Spinner";
 import TvShowCard from "./tvShowcard";

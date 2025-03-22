@@ -24,6 +24,8 @@ const Footer = () => {
           <p key={footerItem}>{footerItem}</p>
         ))}
       </ul>
+      <a className="text-sm text-center hover:underline hover:decoration-primary hover:text-primary" href="https://github.com/teajhaney" target="_blank" rel="noreferrer"> Github @teajhaney</a>
+
     </div>
   );
 };
